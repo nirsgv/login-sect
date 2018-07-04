@@ -132,7 +132,7 @@ header.App-header{
 @media (min-width: 1024px){
     .login_input_wrp{
         width: calc(100% - 400px);
-        max-width: 800px;
+        max-width: 560px;
     }
 }
 
